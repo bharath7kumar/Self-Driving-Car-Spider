@@ -1,8 +1,8 @@
-#               Self-Driving-Car-Spider
+# Self-Driving-Car-Spider
 
-<p align="center">
 https://youtu.be/jQlV_xvRpWI - Link for video
 
 
+<p align="center">
 <img src="SDC.png" >
 </p>
