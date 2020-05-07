@@ -2,4 +2,7 @@
 
 https://youtu.be/jQlV_xvRpWI - Link for video
 
-![poster](SDC.png)
+<p align="center">
+  <img src="SDC.png" >
+  poster
+</p>
